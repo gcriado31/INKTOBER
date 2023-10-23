@@ -79,7 +79,7 @@
         </dd>
 </dl>
 
-## 7. DRIP [^2]
+## 7. DRIP 
 
 <h3 id="ideas-golden">IDEAS </h3>
 
@@ -89,6 +89,7 @@
            Puedes dibujar un grifo goteando agua.
         </dd>
 </dl>
-[^2]: Es simple pero es de los que chocan y molan. Además que no se me ocurre nada más.
+
+[^2]:Es simple pero es de los que chocan y molan. Además que no se me ocurre nada más.
 
 ## 8. TOAD
