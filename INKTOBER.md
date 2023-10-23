@@ -1,6 +1,6 @@
 # INKTOBER
 
- <font color='Aquamarine'>Lo escrito en este color son comentarios personales.</font>
+<span style="color:orange">Lo escrito en este color son comentarios personales.</span>
 
 ## 1. DREAM
 
