@@ -1,7 +1,5 @@
 # INKTOBER
 
-<span style="color:orange">Lo escrito en este color son comentarios personales.</span>
-
 ## 1. DREAM
 
 <mark>Ya hecho</mark>
@@ -30,7 +28,7 @@
     <dt>
 </dl>
 
-## 4. DODGE
+## 4. DODGE [^1]
 
 <h3 id="ideas-dodge">IDEAS </h3>
 
@@ -45,7 +43,7 @@
         </dd>
 </dl>
 
-<font color='Aquamarine'>No estaba muy inspirado aquí la verdad, no entedí el termino ya que dodge es regate se supone.</font>
+[^1]: No estaba muy inspirado aquí la verdad, no entedí el termino ya que dodge es regate se supone.
 
 ## 5. MAP
 
@@ -81,7 +79,7 @@
         </dd>
 </dl>
 
-## 7. DRIP
+## 7. DRIP [^2]
 
 <h3 id="ideas-golden">IDEAS </h3>
 
@@ -91,6 +89,6 @@
            Puedes dibujar un grifo goteando agua.
         </dd>
 </dl>
-<font color='Aquamarine'>Es simple pero es de los que chocan y molan. Además que no se me ocurre nada más.</font>
+[^2]: Es simple pero es de los que chocan y molan. Además que no se me ocurre nada más.
 
 ## 8. TOAD
