@@ -2,11 +2,11 @@
 
 ## 1. DREAM
 
-==Ya hecho==
+Ya hecho 
 
 ## 2. SPIDERS
 
-==Ya hecho==
+Ya hecho
 
 ## 3. PATH
 
