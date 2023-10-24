@@ -2,11 +2,11 @@
 
 ## 1. DREAM
 
-<mark>Ya hecho</mark>
+==Ya hecho==
 
 ## 2. SPIDERS
 
-<mark>Ya hecho</mark>
+==Ya hecho==
 
 ## 3. PATH
 
@@ -104,3 +104,14 @@
 </dl>
 
 ![Imagen del toad](https://github.com/gcriado31/INKTOBER/assets/131780163/c5ad59ea-bf80-4164-a796-aa066117ee67)
+
+<dl>
+    <dt>Sapito</dt>
+        <dd>
+            Puedes dibujar un sapito pequeñito.
+        </dd>
+</dt>
+
+## 9. BOUNCE
+
+
