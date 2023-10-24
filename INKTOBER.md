@@ -100,7 +100,7 @@
     <dt>Mario</dt>
         <dd>
            Puedes dibujar un TOAD a tu estilo que más te guste adjunto imagen.
-            ![Imagen del toad](https://github.com/gcriado31/INKTOBER/assets/131780163/c5ad59ea-bf80-4164-a796-aa066117ee67)
         </dd>
 </dl>
 
+![Imagen del toad](https://github.com/gcriado31/INKTOBER/assets/131780163/c5ad59ea-bf80-4164-a796-aa066117ee67)
