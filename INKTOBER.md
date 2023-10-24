@@ -86,7 +86,7 @@ Ya hecho
 <dl>
     <dt>Curva azul</dt>
         <dd>
-           Puedes dibujar un grifo goteando agua.
+           Puedes dibujar un grifo goteando agua o sangre (creepy).
         </dd>
 </dl>
 
@@ -95,16 +95,6 @@ Ya hecho
 ## 8. TOAD
 
 <h3 id="ideas-toad">IDEAS </h3>
-
-<dl>
-    <dt>Mario</dt>
-        <dd>
-           Puedes dibujar un TOAD a tu estilo que más te guste adjunto imagen.
-        </dd>
-</dl>
-
-![Imagen del toad](https://github.com/gcriado31/INKTOBER/assets/131780163/c5ad59ea-bf80-4164-a796-aa066117ee67)
-
 <dl>
     <dt>Sapito</dt>
         <dd>
@@ -114,4 +104,4 @@ Ya hecho
 
 ## 9. BOUNCE
 
-
+[ ] Hola
