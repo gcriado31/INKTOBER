@@ -102,6 +102,39 @@ Ya hecho
         </dd>
 </dt>
 
-## 9. BOUNCE
+## 9. BOUNCE [^3]
+[^3]:En algunas traduccuines bounce se traduce como una impertinencia.
 
-- [ ] Hola
+<h3 id="ideas-bounce">IDEAS </h3>
+
+<dl>
+    <dt>Matanza</dt>
+        <dd>
+            Una matanza de niños en un parque de colchonetas.
+        </dd>
+    <dt>F*ck u</dt>
+        <dd>
+            Una señora zombie haciendo un f*ck u.
+        </dd>
+</dl>
+
+## 10. FORTUNE
+
+<h3 id="ideas-fortune">IDEAS </h3>
+
+<dl>
+    <dt>Asesino</dt>
+        <dd>Un dibujo donde alguien aparezca matando al la diosa Fortuna o que la diosa Fortuna aparezca desgastada que de miedo.</dd>
+    <dt>Avaricia</dt>
+        <dd>Un dibujo que refleje la corrupción o la avaricia de la gente que juega a juegos de azar y se hace rica con ello como si por un lado les entrase dinero y por otro los estuvieran desangrando.</dd>
+</dl>
+
+## 11. WANDER [^1]
+
+
+<h3 id="ideas-wander">IDEAS </h3>
+
+<dl>
+    <dt>Vagabundo</dt>
+        <dd>Podrías hacer un vagabundo con su perrito y la gente de afuera que lo mira mal.</dd>
+</dl>
