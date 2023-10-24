@@ -79,7 +79,7 @@
         </dd>
 </dl>
 
-## 7. DRIP 
+## 7. DRIP [^2]
 
 <h3 id="ideas-golden">IDEAS </h3>
 
@@ -90,6 +90,17 @@
         </dd>
 </dl>
 
-[^2]:Es simple pero es de los que chocan y molan. Además que no se me ocurre nada más.
+[^2]:La idea de este es simple pero es de los que chocan y molan. Además que no se me ocurre nada más.
 
 ## 8. TOAD
+
+<h3 id="ideas-toad">IDEAS </h3>
+
+<dl>
+    <dt>Mario</dt>
+        <dd>
+           Puedes dibujar un TOAD a tu estilo que más te guste adjunto imagen.
+            ![Imagen del toad](https://github.com/gcriado31/INKTOBER/assets/131780163/c5ad59ea-bf80-4164-a796-aa066117ee67)
+        </dd>
+</dl>
+
